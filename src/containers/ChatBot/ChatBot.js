@@ -91,7 +91,7 @@ class ChatBot extends Component {
             onChange={evt => this.updateInputValue(evt)}
             onKeyPress={this.handleKeyPress}
           />
-          <button onClick={() => this.submit()}> placeholder </button>
+          <button onClick={() => this.submit()}> submit </button>
         </div>
       </div>
     );
