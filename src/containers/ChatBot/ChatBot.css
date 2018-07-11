@@ -1,0 +1,15 @@
+.request {
+  color: green;
+  text-align: left;
+}
+
+
+.response {
+  color: red;
+  text-align: right;
+}
+
+.middle{
+  text-align: center;
+  width: 100%
+}
